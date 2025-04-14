@@ -22,3 +22,11 @@ pip install -r requirements.txt
 To launch the program, run the file E2_main.py.
 
 Test files are located in the FichiersTest folder, each file is numbered.
+
+Contributor :
+- Jérémy Viot 
+- Martin Kang 
+- Loris Recrosio 
+- Augustin Maury 
+- Tom Caldevilla--Gonzalvez 
+
