@@ -1,23 +1,24 @@
 # Scheduling Graph
 
 ## Description
-Modelisation d'un graph d'ordonnancement en langage Python.
+Modeling of a scheduling graph using Python.
 
-## Fonctionnalités
-- ✅ **Lecture de Tableaux de Contraintes**
-- ✅ **Construction de Graphes** (affichage de la matrice de valeurs)
-- ✅ **Vérification de Graphes** (détection de circuits et d'arcs négatifs)
-- ✅ **Rangs de tous les sommets du graphe**
-- ✅ **Calendrier au plus tôt, au plus tard et les marges**
-- ❌ **Chemins critiques**
+## Features
+- ✅ **Constraint Table Reading**
+- ✅ **Graph Construction** (display of the value matrix)
+- ✅ **Graph Verification** (detection of cycles and negative edges)
+- ✅ **Calculation of Ranks for All Nodes**
+- ✅ **Earliest and Latest Scheduling, with Float Calculation**
+- ❌ **Critical Path Computation**
 
-## Installation et lancement
+## Installation and Execution
 
-Pour installer les dépendances nécessaires pour ce projet, exécutez la commande suivante dans votre terminal :
+To install the required dependencies for this project, run the following command in your terminal:
 
 ```bash
 pip install -r requirements.txt
-```
-Le lancement du programme se fait en exécutant le fichier `E2_main.py`.
+````
 
-La liste des fichiers de test sont dans le dossier `FichiersTest`, chaque fichier est numeroté.
+To launch the program, run the file E2_main.py.
+
+Test files are located in the FichiersTest folder, each file is numbered.
